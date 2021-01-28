@@ -1,0 +1,10 @@
+C:\Users\Alejandro Facal\source\repos\Aufgabe 07 OOP\obj\Debug\Aufgabe 07 OOP.csprojAssemblyReference.cache
+C:\Users\Alejandro Facal\source\repos\Aufgabe 07 OOP\obj\Debug\Aufgabe_07_OOP.Form1.resources
+C:\Users\Alejandro Facal\source\repos\Aufgabe 07 OOP\obj\Debug\Aufgabe_07_OOP.Properties.Resources.resources
+C:\Users\Alejandro Facal\source\repos\Aufgabe 07 OOP\obj\Debug\Aufgabe 07 OOP.csproj.GenerateResource.cache
+C:\Users\Alejandro Facal\source\repos\Aufgabe 07 OOP\obj\Debug\Aufgabe 07 OOP.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Facal\source\repos\Aufgabe 07 OOP\bin\Debug\Aufgabe 07 OOP.exe.config
+C:\Users\Alejandro Facal\source\repos\Aufgabe 07 OOP\bin\Debug\Aufgabe 07 OOP.exe
+C:\Users\Alejandro Facal\source\repos\Aufgabe 07 OOP\bin\Debug\Aufgabe 07 OOP.pdb
+C:\Users\Alejandro Facal\source\repos\Aufgabe 07 OOP\obj\Debug\Aufgabe 07 OOP.exe
+C:\Users\Alejandro Facal\source\repos\Aufgabe 07 OOP\obj\Debug\Aufgabe 07 OOP.pdb
